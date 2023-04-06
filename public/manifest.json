@@ -1,0 +1,10 @@
+{
+    "name": "CG Tesla Clone",
+    "short_name": "CG Tesla Clone",
+    "description": "Carlos Garcia's Tesla Clone Project for educational purposes only.",
+    "theme_color": "#cc0300",
+    "background_color": "#FFF",
+    "start_url": "/",
+    "display": "standalone",
+    "prefer_related_applications": true
+}
